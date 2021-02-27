@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TileSide.obj-3a726d9f84c4357382a1140de2b5a924.mesh"
+
+[deps]
+
+files=[ "res://.import/TileSide.obj-3a726d9f84c4357382a1140de2b5a924.mesh" ]
+
+source_file="res://Models/MagicaVoxel/TileSide.obj"
+dest_files=[ "res://.import/TileSide.obj-3a726d9f84c4357382a1140de2b5a924.mesh", "res://.import/TileSide.obj-3a726d9f84c4357382a1140de2b5a924.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

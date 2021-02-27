@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TileCorridor.obj-d69fee0121607167a5e6c92218d4ec08.mesh"
+
+[deps]
+
+files=[ "res://.import/TileCorridor.obj-d69fee0121607167a5e6c92218d4ec08.mesh" ]
+
+source_file="res://Models/Old/TileCorridor.obj"
+dest_files=[ "res://.import/TileCorridor.obj-d69fee0121607167a5e6c92218d4ec08.mesh", "res://.import/TileCorridor.obj-d69fee0121607167a5e6c92218d4ec08.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

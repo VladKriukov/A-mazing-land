@@ -1,0 +1,51 @@
+# Exported from Wings 3D 2.2.5
+newmtl palette
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd TileTurn.png
+
+newmtl palette2
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd Tile.png
+
+newmtl palette3
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd TileCorridor.png
+
+newmtl palette4
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd TileDeadEnd.png
+
+newmtl palette5
+Ns 19.999999999999996
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 0.1 0.1 0.1
+Ke 0.0 0.0 0.0
+map_Kd TileSide.png
+

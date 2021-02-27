@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TileWall.obj-5ed020ded90eb62f508a4058a27ed30c.mesh"
+
+[deps]
+
+files=[ "res://.import/TileWall.obj-5ed020ded90eb62f508a4058a27ed30c.mesh" ]
+
+source_file="res://Models/TileWall.obj"
+dest_files=[ "res://.import/TileWall.obj-5ed020ded90eb62f508a4058a27ed30c.mesh", "res://.import/TileWall.obj-5ed020ded90eb62f508a4058a27ed30c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

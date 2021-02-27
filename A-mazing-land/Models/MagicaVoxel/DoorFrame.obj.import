@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/DoorFrame.obj-5f7ba0ff79e4e1ff0f42c61c136b1456.mesh"
+
+[deps]
+
+files=[ "res://.import/DoorFrame.obj-5f7ba0ff79e4e1ff0f42c61c136b1456.mesh" ]
+
+source_file="res://Models/MagicaVoxel/DoorFrame.obj"
+dest_files=[ "res://.import/DoorFrame.obj-5f7ba0ff79e4e1ff0f42c61c136b1456.mesh", "res://.import/DoorFrame.obj-5f7ba0ff79e4e1ff0f42c61c136b1456.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

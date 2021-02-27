@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TileTurn.obj-c559effce22a2034bd90436cd2f8a54c.mesh"
+
+[deps]
+
+files=[ "res://.import/TileTurn.obj-c559effce22a2034bd90436cd2f8a54c.mesh" ]
+
+source_file="res://Models/TileTurn.obj"
+dest_files=[ "res://.import/TileTurn.obj-c559effce22a2034bd90436cd2f8a54c.mesh", "res://.import/TileTurn.obj-c559effce22a2034bd90436cd2f8a54c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

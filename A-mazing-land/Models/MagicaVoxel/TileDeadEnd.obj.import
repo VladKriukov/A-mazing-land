@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TileDeadEnd.obj-a884d8d030e978c74848ebf0d05d107a.mesh"
+
+[deps]
+
+files=[ "res://.import/TileDeadEnd.obj-a884d8d030e978c74848ebf0d05d107a.mesh" ]
+
+source_file="res://Models/MagicaVoxel/TileDeadEnd.obj"
+dest_files=[ "res://.import/TileDeadEnd.obj-a884d8d030e978c74848ebf0d05d107a.mesh", "res://.import/TileDeadEnd.obj-a884d8d030e978c74848ebf0d05d107a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
